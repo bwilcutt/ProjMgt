@@ -39,4 +39,4 @@ VersionDescriptionDocument.doc	- A project release document (per releast), used 
 I authored most of these documents but I did "borrow" concepts and ideas from others. The PMBOK 4 was followed.
 For SystemSecurityPlan, NIST SP 800-53 Rev 4 was followed.
 
-Bryan Wilcutt, PMP
+Bryan Wilcutt, PMP (2006-2025, retired)
