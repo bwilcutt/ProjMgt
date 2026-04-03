@@ -13,9 +13,9 @@ We use specific "tags" in all the documents that allow you to quickly adopt and 
 {...} - Hints given on what else may be needed for you to complete
 
 ActionItems.xlsx		- Excel spreadsheet allowing you to take action items during a meeting.
-BackupPolicy.docx		- Backup policy.
-ChangeControlPolicy.doc		- Control Control policy.
-CodeReviewGuidelines.doc	- Code review guidelines for software engineering.
+BackupPolicy.docx		- Backup policy.  Backup policy.  <get it?>
+ChangeControlPolicy.doc		- Change Control policy.
+CodeReviewGuidelines.doc	- Code review guidelines for software engineering. SW guys hate this.
 CodingStandards.doc		- Common coding standards (always outdated, so update it!)
 CommunicationsPlan.doc		- Communications Plan (per PMI)
 CostManagementPlan.doc		- Cost Management Plan (per PMI)
