@@ -6,7 +6,8 @@ your document.  Many companies have software that provides "guaranteed unrepeate
 Atlassian.  The DCN number along with the document title (ie, "Project Widget Charter") are stored together and
 commonly used in lists.
 
-We use specific "tags" in all the documents that allow you to quickly adopt and "own" them.
+We use specific "tags" in all the documents that allow you to quickly adopt and "own" them.  Merely do a global
+search-and-replace of these tags to "own" them yourself.
 
 [DCN} - Document control number
 {Company Name} - Your company name
